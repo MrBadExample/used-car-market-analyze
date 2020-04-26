@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/modules.xml
+.idea/used-car-market-analyze.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
